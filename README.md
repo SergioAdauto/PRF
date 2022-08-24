@@ -7,6 +7,6 @@
 <ul>
 
 
-<p>O proposito desse projeto, era verificar se a pandemia da COVID-19 gerou efeitos na redução do número de acidentes nas rodovias federais brasileiras.</p>
-<p>Além de possibilitar o aprendizado no manuseio e análise de dados.
+<p>O proposito desse projeto, era verificar se a pandemia da COVID-19 gerou efeitos na redução do número de acidentes nas rodovias federais brasileiras.
+ Além de possibilitar o aprendizado no manuseio e análise de dados.
 </p>
