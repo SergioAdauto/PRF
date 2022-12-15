@@ -4,6 +4,7 @@
 <ul>
 <li>Numpy;
 <li>Pandas;
+<li>PySpark (No notebook de estruturação de dados).
 </ul>
 
 <p>OBS: Os dados disponibilizados pela Polícia Rodoviária Federal <a href="https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos">(PRF)</a>, são abertos são abertos e pertencem ao domínio público disponível a todos.</p>
